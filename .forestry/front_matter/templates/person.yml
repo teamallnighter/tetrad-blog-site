@@ -10,23 +10,28 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: genre
+  type: select
+  default: Dubstep
+  config:
+    required: true
+    options:
+    - Dubstep
+    - Trap
+    - Hybrid
+    - " House"
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Genre
 - type: file
   label: Thumbnail
   name: thumbnail
   description: 'Square image, Max 500 pixels '
-- name: role
-  label: Departments
-  type: list
-  hidden: true
-  default: staff
-  description: ''
-- name: email
-  label: Email
-  type: text
-  hidden: false
-  default: ''
-- name: linkedin
-  label: Linkedin
+- name: SoundCloud
+  label: SoundCloud
   type: text
   hidden: false
   default: ''
@@ -35,3 +40,8 @@ fields:
   type: text
   hidden: true
   default: person
+- name: contact
+  type: text
+  config:
+    required: true
+  label: Contact
