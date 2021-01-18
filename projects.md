@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: projects
-description: Projects by Tetrad College
+description: Projects by Tetrad Sound
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
   footer:
