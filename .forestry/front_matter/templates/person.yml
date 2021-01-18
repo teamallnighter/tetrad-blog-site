@@ -25,7 +25,24 @@ fields:
       section: 
       file: 
       path: 
-  label: Genre
+  label: Main Genre
+- name: secondary_genre
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Dubstep
+    - Trap
+    - " House"
+    - Bass
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Secondary Genre
+  description: If Applicable
 - type: file
   label: Thumbnail
   name: thumbnail
@@ -45,3 +62,7 @@ fields:
   config:
     required: true
   label: Contact
+- name: tag
+  type: tag_list
+  default: []
+  label: Tag
