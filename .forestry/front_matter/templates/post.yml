@@ -38,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/2021-01-14-new-track-from-an-artist.md
