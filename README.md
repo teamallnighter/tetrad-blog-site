@@ -7,7 +7,7 @@ A Jekyll demo site for [Forestry CMS](https://forestry.io).
 This project has been pre-configured to work with Forestry, just import your repository ✨.  
 Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
 
-<p><a href="https://app.forestry.io/quick-start?repo=forestryio-templates/belkirk-jekyll-demo&engine=jekyll">
+<p><a href="https://app.forestry.io/quick-start?repo=forestryio-templates/Tetrad-jekyll-demo&engine=jekyll">
     <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
 </a></p>
 
@@ -25,7 +25,7 @@ Forestry empowers editors with a usable interface to edit Markdown, YAML and JSO
 
 The easiest way to deploy this Jekyll v4 demo is to build and deploy through https://netlify.com, just click the button below and follow the instructions.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/belkirk-jekyll-demo)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/Tetrad-jekyll-demo)
 
 ## Running locally
 

@@ -30,8 +30,8 @@ The EEG is monitored and recorded using a series of electrodes built into the he
 ## Team
 
 ### Staff
-- [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
-- [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
+- [Kellie Brewer](/Tetrad-jekyll-demo/about/kellie-brewer/)
+- [Mary Anne Macswain](/Tetrad-jekyll-demo/about/mary-ann-macswain/)
 
 ### Students
 - Andrew Convington
